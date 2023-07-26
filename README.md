@@ -18,13 +18,17 @@ debemos comprender que useState regresa un arreglo donde:
  
 Con NPM:
 $ npm create vite@latest
+
 Con Yarn: 
+
 $ yarn create vite
 
 Puede especificar directamente el nombre del proyecto y la plantilla que desea usar a través de opciones de línea de comandos adicionales. Por ejemplo, para montar un proyecto de Vite + Vue, ejecute:
+
 npm create vite@latest my-vue-app --template vue
 
 cd my-project
 
 npm install
+
 npm run dev
